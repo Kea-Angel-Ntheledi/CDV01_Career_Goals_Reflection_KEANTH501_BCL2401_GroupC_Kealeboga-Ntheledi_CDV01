@@ -30,9 +30,9 @@ By completing this reflection, you will gain a clearer understanding of your car
         2. CSS styling
         3. JavaScript
 
-    - Identify skills you need to develop or improve.
-        ~JavaScript- improving my understanding including DOM manipulation, event handling and asynchronous programming.
-        ~Responsive Design- Learning how to create websites that adapt to different screen sizes and devices using techniques like media queries and flexible layouts.
+    ### Identify skills you need to develop or improve.
+        1. JavaScript- improving my understanding including DOM manipulation, event handling and asynchronous programming.
+        2. Responsive Design- Learning how to create websites that adapt to different screen sizes and devices using techniques like media queries and flexible               layouts.
 
 2. **Interests and Values**:
     
