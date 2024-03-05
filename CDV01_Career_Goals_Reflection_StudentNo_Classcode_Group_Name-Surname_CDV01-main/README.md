@@ -16,32 +16,32 @@ By completing this reflection, you will gain a clearer understanding of your car
 
 ### Personal Information
 
-- **Name:**Kealeboga Angel Ntheledi**
-- **Date:**03 March 2024**
-- **Current Role/Position:**A Software Developer Student**
-- **Field of Interest:**Software Engineering**
+- **Name: Kealeboga Angel Ntheledi**
+- **Date: 03 March 2024**
+- **Current Role/Position: A Student**
+- **Field of Interest: Front-end Software Development**
 
 ### Part 1: Self-Assessment Reflection
 
 1. **Skills Analysis**:
     
-     ### List your current skills and areas of expertise.
-        1. Proficiency in HTML- i can create structure web pages using HTML5 elements and tags.
-        2. CSS styling
-        3. JavaScript
+   -List your current skills and areas of expertise.
+    Proficiency in HTML- i can create structure web pages using HTML5 elements and tags.
+    CSS styling
+    JavaScript
 
-    ### Identify skills you need to develop or improve.
-        1. JavaScript- improving my understanding including DOM manipulation, event handling and asynchronous programming.
-        2. Responsive Design- Learning how to create websites that adapt to different screen sizes and devices using techniques like media queries and flexible               layouts.
+   -Identify skills you need to develop or improve.
+   JavaScript- improving my understanding including DOM manipulation, event handling and asynchronous programming.
+   Responsive Design- Learning how to create websites that adapt to different screen sizes and devices using techniques like media queries and flexible               layouts.
 
 2. **Interests and Values**:
     
     - Describe your key interests related to your career.
-        ~Continuous Learning-The field of front-end development is constantly evolving, with new tools, techniques, and best practices emerging regularly. I am             committed to staying up-to-date with the latest trends and technologies through continuous learning and professional development.
+      Continuous Learning-The field of front-end development is constantly evolving, with new tools, techniques, and best practices emerging regularly. I am             committed to staying up-to-date with the latest trends and technologies through continuous learning and professional development.
     - What values are important to you in a work environment?
-        ~creativity
-        ~collaboration
-        ~work-life balance
+      creativity
+      collaboration
+      work-life balance
 
 ### Part 2: Career Exploration Insights
 
@@ -63,31 +63,32 @@ By completing this reflection, you will gain a clearer understanding of your car
 1. **Short-term Goals** (Next 1-2 years):
     
     - List your specific, measurable, achievable, relevant, and time-bound goals.
-       1. Specfic: Complete a portfolio website showcasing at least three front-end projects.
-       2. Measurable: Making at least three meaningful contributions to the project, such as fixing bugs, implementing new features, or improving documentation.
-       3. Achievable: Continuously improve technical skills, update resume/portfolio, and actively seek out opportunities through job boards, networking, and                            online platforms.
-           Relevent: Contributing to open-source projects demonstrates collaboration, problem-solving, and commitment to the development community.
-           Time-bound:  Make regular contributions to the chosen open-source project over the next 2 months.
+      Specfic: Complete a portfolio website showcasing at least three front-end projects.
+      Measurable: Making at least three meaningful contributions to the project, such as fixing bugs, implementing new features, or improving documentation.
+      Achievable: Continuously improve technical skills, update resume/portfolio, and actively seek out opportunities through job boards, networking, and                            online platforms.
+      Relevent: Contributing to open-source projects demonstrates collaboration, problem-solving, and commitment to the development community.
+      Time-bound:  Make regular contributions to the chosen open-source project over the next 2 months.
     - Explain the rationale behind each goal.
-            Building a portfolio of projects demonstrates practical skills and experience to potential employers.
+      Building a portfolio of projects demonstrates practical skills and experience to potential employers.
         
 2. **Long-term Goals** (3-5 years and beyond):
     
     - Outline your long-term career aspirations.
-        Graduating and becoming a proficient full-stack developer.
+      Graduating and becoming a proficient full-stack developer.
     - Describe how these align with your interests and skills.
-        It'll be aligning with the interest in continuous learning and gaining expertise in both front-end and back-end development. It leverages existing skills in             front-end technologies while expanding knowledge and capabilities to encompass the full stack.
+      It'll be aligning with the interest in continuous learning and gaining expertise in both front-end and back-end development. It leverages existing skills          in front-end technologies while expanding knowledge and capabilities to encompass the full stack.
 
 ### Part 4: Action Plan
 
 1. **Steps to Achieve Short-term Goals**:
     
     - Detail specific actions or steps needed to achieve each short-term goal.
+      Completing projects on time
+     100% attendance
     - Include any resources or support required.
-
-    ~identifying project ideas
-    ~planning project scope
-    ~documentation of the project
+        Identifying project ideas
+        Planning project scope
+        Documentation of the project
 2. **Preparation for Long-term Goals**:
     ~Enrolling in courses or bootcamps covering back-end development technologies.   
 
